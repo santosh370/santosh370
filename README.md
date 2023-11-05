@@ -47,6 +47,8 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <br/>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=santosh370&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh370&label=Profile%20views&color=0e75b6&style=flat" alt="santosh370" /> </p>
 
