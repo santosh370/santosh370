@@ -9,7 +9,8 @@
 👯 I’m looking to collaborate on **Content Creation, DevOps, BigData** <br>
 🤝 I’m looking for help with <br>
 🌱 I’m currently learning **Linux, AWS, DevOPS, C, GoLang** <br>
-💬 Ask me about **AWS, Datapipeline, Realtime data analysis** <br>
+💬 Ask me about **AWS, Datapipeline, Realtime data analysis** <br/> <br/>
+
 ⚡ Fun fact **Tere girne me bhi teri HAAR nahi, Tu aadmi hai AVTAAR nahi** <br>
 
 📫 How to reach me **santosh370@gmail.com**
@@ -28,22 +29,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santosh370&theme=city_light&hide_border=false)<br/>
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=santosh370&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Quote which motivate me:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=santosh370&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br/>
 
-### 😂 Random Dev Meme
+### 😂 Thoda hatke hai HUM:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <br/>
